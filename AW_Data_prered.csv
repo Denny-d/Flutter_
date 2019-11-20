@@ -1,0 +1,501 @@
+City,StateProvinceName,CountryRegionName,Education,Occupation,Gender,MaritalStatus,HomeOwnerFlag,NumberCarsOwned,NumberChildrenAtHome,TotalChildren,YearlyIncome,log_YearlyIncome
+Fremont,California,United States,Bachelors ,Management,F,S,0,2,0,5,86931,11.372869979515515
+Haney,British Columbia,Canada,Bachelors ,Skilled Manual,M,M,1,2,2,4,100125,11.51417468437066
+Burbank,California,United States,Graduate Degree,Management,F,M,1,2,0,4,103985,11.55200193695202
+Burlingame,California,United States,Graduate Degree,Skilled Manual,M,M,1,0,0,4,127161,11.753209279102027
+Dunkerque,Nord,France,High School,Manual,F,M,1,1,2,2,21876,9.993145424466663
+Spring Valley,California,United States,Partial College,Clerical,F,M,1,1,0,1,44467,10.702502620019327
+N. Vancouver,British Columbia,Canada,Bachelors ,Skilled Manual,M,S,1,2,2,4,77702,11.26063627605021
+Cranbourne,Victoria,Australia,Bachelors ,Professional,M,M,1,3,4,4,99418,11.507088462769596
+Tremblay-en-France,Seine Saint Denis,France,Partial High School,Manual,M,S,1,1,4,4,13522,9.512073267650623
+Hannover,Nordrhein-Westfalen,Germany,Bachelors ,Skilled Manual,F,M,1,1,1,1,46264,10.742119399838055
+Royal Oak,British Columbia,Canada,High School,Professional,F,S,1,1,1,2,96375,11.47600211086563
+N. Vancouver,British Columbia,Canada,Partial College,Professional,F,M,1,2,0,3,77688,11.26045608427419
+Oregon City,Oregon,United States,High School,Skilled Manual,M,M,1,2,0,2,52127,10.861438327669577
+Metchosin,British Columbia,Canada,High School,Professional,F,M,1,2,0,4,60978,11.018268422365821
+Lemon Grove,California,United States,Partial College,Skilled Manual,F,S,1,1,0,0,36915,10.516373251493265
+Woodland Hills,California,United States,Graduate Degree,Professional,F,M,1,0,0,0,86445,11.367263652538876
+Concord,California,United States,Graduate Degree,Skilled Manual,M,M,1,0,0,4,113658,11.640949218356333
+Corvallis,Oregon,United States,Partial High School,Skilled Manual,M,S,1,2,0,2,83326,11.330515904304047
+Matraville,New South Wales,Australia,Partial College,Management,F,S,1,3,5,5,142823,11.869361380343909
+Colombes,Hauts de Seine,France,Partial College,Clerical,F,S,1,2,2,2,42704,10.662047871644305
+Cheltenham,England,United Kingdom,Partial High School,Manual,M,M,1,2,0,0,31323,10.352107930958221
+Ingolstadt,Bayern,Germany,Bachelors ,Skilled Manual,M,M,1,0,0,1,61350,11.024350450139057
+Brisbane,Queensland,Australia,Partial High School,Professional,M,M,1,4,5,5,148087,11.905555217875108
+Burien,Washington,United States,Graduate Degree,Skilled Manual,M,M,1,0,0,0,112248,11.628465988073831
+Lake Oswego,Oregon,United States,Graduate Degree,Professional,F,M,0,0,0,5,94217,11.453355911373523
+Burlingame,California,United States,Graduate Degree,Management,M,S,1,2,0,4,122711,11.717587276232473
+Colma,California,United States,Bachelors ,Skilled Manual,M,M,1,1,1,1,58716,10.980467541077124
+Victoria,British Columbia,Canada,Partial College,Professional,M,S,1,2,3,4,128140,11.760878695193012
+Goulburn,New South Wales,Australia,Bachelors ,Professional,M,S,0,1,0,0,101320,11.526039104115611
+Burlingame,California,United States,Graduate Degree,Management,F,M,1,3,0,1,150227,11.919902762476795
+Concord,California,United States,Bachelors ,Skilled Manual,F,S,1,1,2,2,85726,11.358911442471598
+Oakland,California,United States,Bachelors ,Management,M,S,0,1,0,0,125452,11.739678494274102
+Malabar,New South Wales,Australia,Bachelors ,Management,F,M,1,2,0,2,50463,10.828995673459891
+Berkeley,California,United States,Bachelors ,Management,M,S,1,2,0,5,91982,11.42934818471488
+Saint-Denis,Seine Saint Denis,France,Partial College,Professional,F,M,1,4,4,4,135619,11.817604762666923
+Burbank,California,United States,Partial College,Clerical,M,S,1,0,3,3,62347,11.040470834473451
+Coffs Harbour,New South Wales,Australia,Partial College,Management,M,M,1,3,5,5,157083,11.96452960705808
+Beverly Hills,California,United States,Graduate Degree,Skilled Manual,M,M,1,0,1,1,92155,11.431227220985724
+Warrnambool,Victoria,Australia,Bachelors ,Professional,F,M,0,2,0,0,111592,11.622604641772071
+Milwaukie,Oregon,United States,Bachelors ,Skilled Manual,M,M,1,1,1,1,61015,11.018875014565939
+Santa Cruz,California,United States,Bachelors ,Professional,F,S,0,1,0,0,86042,11.36259082811383
+Milton Keynes,England,United Kingdom,Partial High School,Manual,M,S,1,2,2,3,16149,9.689613407229068
+Burbank,California,United States,Partial College,Skilled Manual,M,M,1,2,0,0,89009,11.396492767197136
+London,England,United Kingdom,Graduate Degree,Clerical,F,M,1,0,0,0,71664,11.179743808447082
+Saarlouis,Saarland,Germany,Bachelors ,Skilled Manual,F,M,1,1,1,1,54946,10.914106163733607
+Westminster,British Columbia,Canada,Partial College,Skilled Manual,M,M,0,1,0,0,61296,11.023469866940431
+Paris,Seine (Paris),France,High School,Manual,F,M,0,1,2,2,26298,10.177248169646864
+Renton,Washington,United States,Bachelors ,Skilled Manual,F,S,0,2,3,3,121950,11.711366403644066
+Berkeley,California,United States,Bachelors ,Management,M,M,1,3,2,2,165094,12.014270287636702
+Solingen,Nordrhein-Westfalen,Germany,Graduate Degree,Clerical,M,M,1,0,0,4,87346,11.377632521726046
+Westminster,British Columbia,Canada,Graduate Degree,Management,M,M,1,2,0,3,122359,11.714714625626018
+Coffs Harbour,New South Wales,Australia,Bachelors ,Professional,F,M,0,2,4,4,80468,11.295614868848462
+Grossmont,California,United States,Bachelors ,Management,F,M,1,4,2,3,131206,11.78452388615378
+Vancouver,British Columbia,Canada,High School,Manual,M,M,0,2,0,2,20427,9.924612834151077
+Salem,Oregon,United States,High School,Professional,F,M,0,2,0,2,63991,11.066497727453186
+London,England,United Kingdom,Bachelors ,Skilled Manual,M,M,1,1,0,1,63830,11.063978578250103
+Issaquah,Washington,United States,Partial College,Professional,F,M,1,1,1,2,66343,11.102593533064349
+Berkeley,California,United States,Partial College,Skilled Manual,M,S,0,2,0,0,86825,11.371649877612274
+Rockhampton,Queensland,Australia,High School,Skilled Manual,M,M,0,2,0,4,17410,9.764800032762235
+Frankfurt,Hessen,Germany,Partial College,Clerical,M,S,0,1,0,0,57913,10.966697163402289
+Lille,Nord,France,Bachelors ,Clerical,F,M,1,0,0,1,48202,10.783155792953782
+Lake Oswego,Oregon,United States,Partial High School,Clerical,M,M,0,2,0,3,19745,9.89065557372075
+Cliffside,British Columbia,Canada,Partial College,Professional,M,M,1,1,1,2,88827,11.394445936819249
+Sooke,British Columbia,Canada,Partial College,Professional,F,S,0,2,3,4,101507,11.527883040603209
+Orleans,Loiret,France,Partial College,Manual,F,S,1,1,1,1,23910,10.082052060452371
+Marysville,Washington,United States,Bachelors ,Skilled Manual,F,S,1,2,3,3,92860,11.438848261573913
+North Ryde,New South Wales,Australia,Bachelors ,Professional,M,S,1,3,0,0,121541,11.708006933399451
+Warrnambool,Victoria,Australia,Graduate Degree,Management,M,M,1,1,4,4,141619,11.86089563203128
+Metchosin,British Columbia,Canada,Partial High School,Clerical,M,S,0,2,0,0,39565,10.585700168043294
+Lancaster,England,United Kingdom,Partial College,Professional,F,M,1,3,4,4,139299,11.844377980991233
+Sooke,British Columbia,Canada,Bachelors ,Professional,F,M,1,0,3,4,82733,11.323373834067555
+Salem,Oregon,United States,Graduate Degree,Management,M,M,1,2,0,2,66790,11.109308647719681
+Puyallup,Washington,United States,Partial College,Professional,M,M,0,2,1,2,102700,11.53956739591665
+Shawnee,British Columbia,Canada,Partial College,Clerical,F,M,0,1,0,2,46284,10.742551607996228
+Bendigo,Victoria,Australia,Partial College,Clerical,M,S,1,2,0,2,56823,10.947696452324852
+Bremerton,Washington,United States,High School,Professional,F,S,1,3,3,4,102763,11.54018064503668
+Berks,England,United Kingdom,Partial College,Clerical,M,S,1,2,4,4,63530,11.05926751426058
+Renton,Washington,United States,Bachelors ,Skilled Manual,F,S,0,3,3,3,38524,10.559036702680755
+Cloverdale,South Australia,Australia,Bachelors ,Professional,F,M,1,0,0,2,122214,11.713528885442196
+Milwaukie,Oregon,United States,Partial College,Professional,F,M,1,2,0,0,58812,10.982101194697547
+Concord,California,United States,Bachelors ,Skilled Manual,F,M,1,3,3,3,96408,11.476344464707228
+Melton,Victoria,Australia,Partial College,Skilled Manual,M,S,0,1,0,1,80326,11.29384863333078
+Verrieres Le Buisson,Essonne,France,Graduate Degree,Clerical,F,M,1,0,0,3,65596,11.091269997463336
+Santa Monica,California,United States,Bachelors ,Management,M,S,0,2,0,0,170887,12.048757798334425
+West Sussex,England,United Kingdom,Bachelors ,Clerical,M,M,1,1,1,1,57415,10.95806087221029
+La Jolla,California,United States,Partial High School,Clerical,F,M,1,2,1,2,19824,9.894648603868923
+N. Vancouver,British Columbia,Canada,Graduate Degree,Professional,M,M,1,0,0,4,108839,11.59762500505637
+Bellflower,California,United States,Bachelors ,Management,M,S,0,3,3,3,163183,12.002627549419753
+Colombes,Hauts de Seine,France,High School,Manual,M,S,1,1,3,3,40146,10.600278088010873
+Burlingame,California,United States,Bachelors ,Management,F,M,1,1,0,0,107111,11.581620958911527
+Bellingham,Washington,United States,Bachelors ,Management,F,M,1,2,0,4,113337,11.638120960342066
+Port Macquarie,New South Wales,Australia,Partial College,Skilled Manual,F,M,1,3,4,5,81034,11.302624098669314
+Bothell,Washington,United States,Graduate Degree,Management,F,S,1,2,0,3,72787,11.19529264681043
+Burien,Washington,United States,Graduate Degree,Skilled Manual,F,S,1,0,0,4,102945,11.541950144010844
+Woolston,England,United Kingdom,Partial High School,Manual,F,M,0,2,0,0,20560,9.931102719569102
+Tremblay-en-France,Seine Saint Denis,France,Partial College,Professional,M,M,1,4,4,4,161140,11.990028831331188
+Pantin,Seine Saint Denis,France,Partial High School,Manual,M,S,0,2,0,0,16588,9.716434821366272
+Lemon Grove,California,United States,Graduate Degree,Skilled Manual,F,M,1,0,0,1,73662,11.207242341408895
+Newcastle,New South Wales,Australia,High School,Skilled Manual,F,M,1,2,0,3,57023,10.951209974200845
+Springwood,New South Wales,Australia,Bachelors ,Professional,F,M,1,1,0,1,89625,11.40338957790192
+Sydney,New South Wales,Australia,High School,Management,F,M,0,3,5,5,89770,11.405006122750734
+Portland,Oregon,United States,Graduate Degree,Management,M,S,0,2,0,3,118636,11.683815260801763
+Concord,California,United States,Partial College,Skilled Manual,F,M,1,1,0,1,71702,11.18027392020147
+Bellflower,California,United States,Bachelors ,Management,M,S,0,1,3,3,154515,11.948046457985903
+Beaverton,Oregon,United States,Graduate Degree,Professional,M,M,1,0,0,4,114039,11.644295774135127
+San Diego,California,United States,Partial College,Professional,M,M,1,1,2,4,98023,11.49295742399396
+Frankfurt,Bayern,Germany,Partial High School,Manual,F,S,0,1,0,0,21984,9.998070195022075
+Santa Cruz,California,United States,Bachelors ,Management,F,S,1,2,0,5,107067,11.581210085706818
+Spokane,Washington,United States,Partial College,Professional,F,S,0,2,0,0,87337,11.377529477926615
+North Ryde,New South Wales,Australia,Graduate Degree,Management,F,M,1,1,0,0,143858,11.876581980919592
+Sooke,British Columbia,Canada,Partial College,Professional,F,M,1,3,4,5,84569,11.345323048182294
+Royal Oak,British Columbia,Canada,Graduate Degree,Skilled Manual,F,S,1,0,0,1,92946,11.439773958334419
+Burlingame,California,United States,Bachelors ,Professional,F,M,1,1,3,4,83958,11.338071952783768
+Brisbane,Queensland,Australia,Partial High School,Clerical,M,S,1,2,0,3,39320,10.579488574261102
+Downey,California,United States,Partial College,Skilled Manual,M,M,0,1,0,0,61300,11.023535121924303
+Marysville,Washington,United States,High School,Professional,M,S,1,2,1,2,93527,11.446005443644207
+Beverly Hills,California,United States,Partial High School,Clerical,F,S,1,2,0,0,46297,10.742832443158637
+Daly City,California,United States,Partial College,Skilled Manual,F,S,0,2,0,0,53441,10.8863335206103
+Gold Coast,Queensland,Australia,High School,Skilled Manual,F,S,0,2,0,2,88333,11.388869042708224
+Everett,Washington,United States,Partial College,Professional,M,S,1,0,1,2,98760,11.500447943459116
+Melton,Victoria,Australia,Partial College,Skilled Manual,M,M,1,3,4,5,86846,11.371891714189507
+Lebanon,Oregon,United States,High School,Professional,F,M,1,3,3,4,100001,11.51293546492023
+Haney,British Columbia,Canada,Partial College,Professional,M,S,1,1,0,3,122694,11.71744872974787
+Burlingame,California,United States,Partial High School,Clerical,F,M,0,2,0,5,31139,10.34621633183446
+La Jolla,California,United States,Partial College,Skilled Manual,M,S,0,2,0,0,101616,11.528956282042756
+Lake Oswego,Oregon,United States,High School,Professional,F,M,1,2,1,3,61458,11.02610929366459
+Coffs Harbour,New South Wales,Australia,Partial High School,Clerical,M,S,0,2,0,3,47048,10.758923636139793
+Issaquah,Washington,United States,Graduate Degree,Skilled Manual,M,M,0,0,0,0,140321,11.851687934148462
+Colombes,Hauts de Seine,France,High School,Manual,M,S,1,1,2,2,40997,10.621254172277629
+Chula Vista,California,United States,Graduate Degree,Management,M,M,1,3,3,3,174134,12.06758039675284
+Coronado,California,United States,High School,Skilled Manual,F,S,0,2,0,0,40926,10.619520836882774
+London,England,United Kingdom,High School,Manual,M,M,1,0,2,2,18156,9.806756363576357
+Royal Oak,British Columbia,Canada,High School,Skilled Manual,M,M,1,3,4,4,64285,11.07108160151835
+Lemon Grove,California,United States,Partial College,Professional,F,S,0,2,0,0,71487,11.177270893969352
+Portland,Oregon,United States,Partial College,Professional,F,M,1,2,0,3,73600,11.206400304716968
+York,England,United Kingdom,High School,Management,F,M,1,4,5,5,135451,11.816365230284068
+London,England,United Kingdom,Partial College,Professional,M,M,0,2,5,5,165902,12.019152531560962
+Sunbury,Victoria,Australia,Partial College,Skilled Manual,M,M,1,1,0,1,103153,11.54396860193493
+West Covina,California,United States,Partial College,Professional,M,S,1,2,1,5,88798,11.394119406204103
+Burnaby,British Columbia,Canada,Graduate Degree,Professional,M,M,1,0,0,2,101566,11.52846411245087
+Darlinghurst,New South Wales,Australia,Bachelors ,Professional,M,M,1,0,0,0,127995,11.759746479638794
+Issaquah,Washington,United States,High School,Skilled Manual,F,M,1,2,0,2,41243,10.62723668039297
+N. Vancouver,British Columbia,Canada,Graduate Degree,Management,M,M,1,3,3,3,131992,11.79049659367128
+Los Angeles,California,United States,Partial College,Skilled Manual,F,S,0,2,0,0,30029,10.309918860389617
+Sooke,British Columbia,Canada,High School,Professional,F,S,1,0,3,4,79991,11.28966940732742
+Oak Bay,British Columbia,Canada,High School,Professional,F,M,1,2,1,3,80286,11.293350538533044
+Caloundra,Queensland,Australia,Partial College,Skilled Manual,F,M,1,1,0,1,77745,11.261189519291916
+Ingolstadt,Bayern,Germany,Bachelors ,Manual,F,M,1,0,0,1,16358,9.702472353294919
+Lille,Nord,France,Partial High School,Manual,M,M,0,2,0,0,12393,9.424887076064874
+Cliffside,British Columbia,Canada,High School,Skilled Manual,M,S,0,2,0,0,36426,10.503038084358488
+Shawnee,British Columbia,Canada,Partial College,Skilled Manual,F,M,1,2,4,4,94374,11.455020890468697
+Vancouver,British Columbia,Canada,Partial High School,Clerical,M,M,0,2,0,0,35783,10.485228199271722
+Chula Vista,California,United States,Partial College,Clerical,M,S,1,1,0,2,56435,10.940844812389727
+Langley,British Columbia,Canada,Bachelors ,Skilled Manual,M,M,1,1,0,1,71123,11.172166051525362
+Coffs Harbour,New South Wales,Australia,Bachelors ,Management,M,M,1,3,1,4,173183,12.062104117868266
+Newton,British Columbia,Canada,Partial High School,Clerical,F,S,0,2,0,0,38150,10.549281036712603
+La Jolla,California,United States,Graduate Degree,Professional,M,S,0,0,0,3,97231,11.484844869642307
+Warrnambool,Victoria,Australia,Partial College,Clerical,M,M,0,2,0,2,45511,10.725709333961985
+Findon,South Australia,Australia,Bachelors ,Professional,M,S,0,3,0,0,113158,11.636540351169531
+Palo Alto,California,United States,Partial College,Professional,F,M,1,2,3,3,137500,11.831379196088763
+Hervey Bay,Queensland,Australia,High School,Skilled Manual,F,M,1,2,0,5,25568,10.149096848566002
+Santa Monica,California,United States,Partial College,Skilled Manual,M,S,0,1,0,0,68194,11.130111863421801
+Spokane,Washington,United States,Bachelors ,Skilled Manual,F,S,0,0,2,2,43139,10.67218273933141
+Shawnee,British Columbia,Canada,High School,Skilled Manual,M,M,1,2,2,4,55895,10.931230209704426
+Port Orchard,Washington,United States,Graduate Degree,Professional,F,M,1,2,5,5,92753,11.43769532496007
+Torrance,California,United States,Bachelors ,Management,F,M,1,1,1,2,82058,11.315181593288735
+Burbank,California,United States,Bachelors ,Management,F,M,1,3,3,3,157564,11.967587003916694
+Courbevoie,Hauts de Seine,France,High School,Professional,M,S,0,1,2,4,121835,11.710422949300852
+Darlinghurst,New South Wales,Australia,Bachelors ,Professional,M,M,0,3,0,0,140372,11.852051320485572
+Lemon Grove,California,United States,Partial High School,Clerical,F,S,0,2,0,0,40421,10.607104730879188
+Croix,Nord,France,Graduate Degree,Clerical,M,M,1,0,0,5,83491,11.33249412059865
+San Gabriel,California,United States,Partial College,Professional,F,S,1,1,3,4,83254,11.329651454736467
+Townsville,Queensland,Australia,High School,Skilled Manual,M,M,1,2,0,2,82419,11.31957127184177
+Renton,Washington,United States,Graduate Degree,Management,M,M,1,2,0,3,109601,11.604601777542019
+Lille,Nord,France,Graduate Degree,Clerical,F,S,1,0,0,4,60147,11.00454684484729
+Puyallup,Washington,United States,Partial High School,Clerical,F,S,1,2,0,3,24276,10.097243486955746
+Melbourne,Victoria,Australia,Graduate Degree,Management,F,M,1,3,5,5,112552,11.63117061605705
+Redwood City,California,United States,High School,Skilled Manual,M,M,1,2,0,2,51376,10.846926416329294
+Melbourne,Victoria,Australia,High School,Manual,F,M,1,0,1,1,20864,9.94578046472638
+Oxon,England,United Kingdom,High School,Professional,M,M,1,3,4,4,141672,11.861269805588636
+Duesseldorf,Hessen,Germany,Partial College,Manual,F,M,1,0,0,1,24399,10.102297426834886
+Ballard,Washington,United States,Partial High School,Skilled Manual,F,S,0,2,0,2,56795,10.947203572665522
+Hobart,Tasmania,Australia,Bachelors ,Professional,F,M,1,4,5,5,82264,11.317688866909027
+Warrnambool,Victoria,Australia,Bachelors ,Management,M,M,1,2,0,2,82374,11.31902513212566
+Morangis,Essonne,France,Partial High School,Manual,F,S,0,2,0,0,17342,9.760886583937106
+Saint Germain en Laye,Yveline,France,Bachelors ,Professional,F,S,0,0,0,0,57835,10.965349407729502
+Concord,California,United States,Bachelors ,Skilled Manual,F,S,0,1,2,2,50171,10.82319244951007
+Darmstadt,Hessen,Germany,Bachelors ,Manual,M,M,0,0,0,1,17135,9.74887843430871
+Tacoma,Washington,United States,Partial College,Skilled Manual,F,M,1,1,0,1,75962,11.237988494226785
+Frankfurt am Main,Saarland,Germany,Partial College,Clerical,F,S,1,2,2,2,38778,10.56560835449095
+Redwood City,California,United States,Partial High School,Skilled Manual,M,M,1,2,0,2,92307,11.432875257268567
+Carson,California,United States,Bachelors ,Management,M,M,1,3,0,5,108017,11.590043901126519
+Duesseldorf,Hessen,Germany,Bachelors ,Professional,M,M,1,0,0,0,63364,11.05665115580874
+Lake Oswego,Oregon,United States,Graduate Degree,Management,M,M,1,2,0,3,119529,11.69131429873647
+Bellflower,California,United States,Bachelors ,Management,F,M,1,4,3,3,139058,11.842646391268554
+Drancy,Seine Saint Denis,France,Partial High School,Skilled Manual,F,M,1,2,2,5,69332,11.146661839061201
+Lebanon,Oregon,United States,Graduate Degree,Professional,F,S,1,0,0,1,93395,11.444593089593404
+Paris,Seine (Paris),France,Bachelors ,Professional,M,M,1,0,0,0,58400,10.975071168816319
+Langley,British Columbia,Canada,Graduate Degree,Management,F,M,1,2,0,5,106486,11.575768800091538
+N. Vancouver,British Columbia,Canada,Bachelors ,Management,F,S,1,1,4,4,111922,11.625557479086774
+Chula Vista,California,United States,Partial College,Professional,F,M,1,1,1,2,69811,11.15354686945718
+Hobart,Tasmania,Australia,High School,Skilled Manual,M,M,1,2,0,2,83382,11.331187737714638
+Billericay,England,United Kingdom,Partial College,Manual,F,S,1,0,0,1,19905,9.898726235434417
+Milsons Point,New South Wales,Australia,Partial College,Skilled Manual,M,S,1,2,0,2,109554,11.604172857364787
+Burbank,California,United States,Bachelors ,Professional,M,M,1,1,4,5,113523,11.639760738546046
+Palo Alto,California,United States,High School,Professional,M,M,0,2,0,2,99495,11.507862670627766
+Wollongong,New South Wales,Australia,Partial College,Management,F,M,1,3,5,5,131508,11.786822965251393
+Berkeley,California,United States,Bachelors ,Professional,M,S,1,2,2,4,93048,11.440870768018875
+Sunbury,Victoria,Australia,Bachelors ,Management,M,S,1,1,0,2,67818,11.124582925418785
+Münster,Saarland,Germany,Partial College,Clerical,F,S,0,1,3,3,43937,10.690512068687417
+Woodland Hills,California,United States,Partial College,Skilled Manual,M,M,1,1,0,1,69562,11.149973720211296
+Warrington,England,United Kingdom,High School,Manual,M,S,0,2,1,1,16065,9.68439827154996
+Santa Monica,California,United States,Bachelors ,Skilled Manual,M,S,0,2,4,4,99165,11.504540408435789
+Brisbane,Queensland,Australia,Partial College,Skilled Manual,F,S,0,1,0,1,65560,11.090721032857767
+Burien,Washington,United States,Partial College,Skilled Manual,F,S,0,1,0,0,78067,11.265322711323353
+Geelong,Victoria,Australia,Bachelors ,Professional,M,S,0,3,0,0,106878,11.57944327602054
+Lemon Grove,California,United States,Bachelors ,Skilled Manual,F,M,1,1,0,1,50921,10.838030691127368
+Les Ulis,Essonne,France,High School,Professional,F,M,0,2,1,5,69536,11.149599883056156
+Runcorn,England,United Kingdom,Graduate Degree,Skilled Manual,M,S,0,0,0,0,117885,11.677464851968384
+Berlin,Hamburg,Germany,Bachelors ,Clerical,M,S,1,1,1,1,60168,11.004895928506238
+Liverpool,England,United Kingdom,Graduate Degree,Skilled Manual,F,S,1,0,0,0,58798,10.981863119702801
+Daly City,California,United States,Partial College,Skilled Manual,M,S,0,2,0,0,92728,11.437425755568581
+Neunkirchen,Saarland,Germany,Bachelors ,Management,F,M,0,4,4,4,141127,11.857415473185025
+Fremont,California,United States,Bachelors ,Skilled Manual,F,S,0,0,2,2,77598,11.259296932643299
+Lavender Bay,New South Wales,Australia,Partial College,Manual,M,S,0,1,0,0,19615,9.884049858643653
+Los Angeles,California,United States,High School,Professional,F,M,1,2,0,4,65832,11.09486132128555
+Concord,California,United States,Partial College,Professional,F,M,1,2,1,2,75228,11.228278781061968
+Lancaster,England,United Kingdom,Partial College,Professional,F,S,0,3,4,4,143980,11.877429680023294
+Kiel,Saarland,Germany,High School,Manual,M,S,1,0,2,2,21982,9.997979215628845
+Shawnee,British Columbia,Canada,Graduate Degree,Skilled Manual,M,M,1,0,1,1,70602,11.164813751691984
+Darmstadt,Hessen,Germany,Partial College,Clerical,M,S,1,1,2,2,53262,10.882978410296374
+Lynnwood,Washington,United States,Graduate Degree,Management,F,M,1,2,0,3,112110,11.627235811147639
+Kirkland,Washington,United States,High School,Skilled Manual,M,M,1,2,0,0,49490,10.809525907945932
+Essen,Hamburg,Germany,Bachelors ,Manual,M,M,1,0,0,1,28276,10.249768667290844
+Redmond,Washington,United States,Partial College,Professional,M,M,1,3,2,2,111398,11.620864652992793
+Lancaster,England,United Kingdom,Partial High School,Manual,M,M,1,2,0,0,32783,10.397665367329228
+Frankfurt,Hessen,Germany,High School,Manual,M,S,1,1,3,3,18645,9.833333292612922
+Issaquah,Washington,United States,Bachelors ,Skilled Manual,M,M,1,0,1,1,99245,11.505346819446679
+Olympia,Washington,United States,Bachelors ,Professional,F,S,0,1,0,0,62515,11.0431618069291
+South Melbourne,Victoria,Australia,Partial College,Clerical,M,M,0,2,0,2,58022,10.968577527953402
+Lemon Grove,California,United States,Partial College,Professional,M,S,1,0,1,2,97815,11.490833218495412
+Paris,Seine (Paris),France,High School,Professional,F,M,1,3,1,4,96315,11.475379348896258
+Erlangen,Bayern,Germany,Bachelors ,Clerical,F,S,0,0,0,1,43725,10.685675299886803
+Reading,England,United Kingdom,Partial College,Manual,M,S,1,0,0,1,15222,9.630497028827337
+Mill Valley,California,United States,Graduate Degree,Professional,F,S,0,0,2,3,94283,11.454056176654127
+Werne,Nordrhein-Westfalen,Germany,Bachelors ,Clerical,F,M,0,0,0,0,55884,10.931033392770377
+Tremblay-en-France,Seine Saint Denis,France,Bachelors ,Clerical,M,M,1,0,0,1,66952,11.11173122371271
+Metchosin,British Columbia,Canada,Partial High School,Clerical,M,S,0,2,0,0,61985,11.034647699272247
+München,Hessen,Germany,Graduate Degree,Management,F,S,0,4,3,3,127056,11.752383213134992
+Ballard,Washington,United States,Partial College,Professional,M,S,1,1,1,2,95610,11.468032696079492
+Lemon Grove,California,United States,Graduate Degree,Professional,F,M,1,3,5,5,92925,11.439547995165453
+Esher-Molesey,England,United Kingdom,Bachelors ,Skilled Manual,F,M,1,0,1,1,47923,10.777350835170328
+Erlangen,Bayern,Germany,Partial High School,Manual,F,S,1,2,2,3,16512,9.711842668281289
+Mill Valley,California,United States,Graduate Degree,Management,F,M,1,2,0,3,57395,10.957712470499597
+Les Ulis,Essonne,France,Bachelors ,Management,M,M,1,3,4,4,129349,11.770269456621786
+Burlingame,California,United States,Partial College,Professional,F,M,0,4,3,3,133373,11.800904993177658
+Townsville,Queensland,Australia,High School,Skilled Manual,F,M,1,2,0,2,81236,11.305113777653
+Milwaukie,Oregon,United States,Partial High School,Skilled Manual,M,S,0,2,0,2,114278,11.646389355316524
+Tremblay-en-France,Seine Saint Denis,France,Bachelors ,Management,M,S,0,4,4,4,127886,11.758894521059666
+Novato,California,United States,Partial College,Skilled Manual,M,M,0,2,0,0,86806,11.371431022683423
+East Brisbane,Queensland,Australia,Partial College,Clerical,F,M,0,2,0,2,45972,10.73578779448865
+Burlingame,California,United States,High School,Skilled Manual,M,S,0,2,0,0,57252,10.955217855304108
+Issaquah,Washington,United States,Bachelors ,Management,F,M,1,0,3,4,107130,11.581798329256603
+Portland,Oregon,United States,Partial College,Skilled Manual,M,S,0,1,0,0,46556,10.748411168061867
+London,England,United Kingdom,Partial College,Clerical,F,S,1,3,4,4,42607,10.659773838007359
+Rhodes,New South Wales,Australia,Bachelors ,Professional,F,S,0,1,2,2,86868,11.372145004081142
+Bellingham,Washington,United States,Partial High School,Skilled Manual,F,S,0,2,0,2,74037,11.212320247227957
+Bendigo,Victoria,Australia,Bachelors ,Professional,M,S,0,2,0,0,101916,11.53190422356801
+Chula Vista,California,United States,Bachelors ,Management,M,S,0,3,2,2,166027,12.019905704714915
+Oakland,California,United States,Partial College,Professional,F,M,1,2,1,4,74722,11.221529839139794
+Rockhampton,Queensland,Australia,Bachelors ,Professional,F,S,0,4,5,5,125967,11.743775246868669
+Saint Ouen,Loir et Cher,France,Graduate Degree,Clerical,F,S,0,0,0,0,63683,11.061672929961361
+Issaquah,Washington,United States,Bachelors ,Management,M,M,1,3,0,2,123254,11.72200254573936
+Burien,Washington,United States,Partial College,Clerical,M,S,0,1,0,2,46217,10.741102974755142
+Berkeley,California,United States,Partial College,Professional,M,M,1,0,2,3,98101,11.493752839181418
+Perth,South Australia,Australia,Bachelors ,Clerical,F,M,1,0,0,0,27721,10.229945527689226
+Cheltenham,England,United Kingdom,Partial High School,Professional,M,M,0,4,4,4,159590,11.980363305393231
+Milwaukie,Oregon,United States,Partial College,Professional,F,S,1,1,0,2,106259,11.573634789081675
+Erlangen,Bayern,Germany,High School,Manual,M,S,1,3,5,5,30684,10.331496625079186
+Concord,California,United States,High School,Skilled Manual,M,M,1,1,0,0,57466,10.958948747548254
+Concord,California,United States,Partial College,Professional,M,M,1,2,1,2,90264,11.410493988818281
+Versailles,Yveline,France,High School,Professional,F,M,1,3,1,5,80264,11.293076480605448
+National City,California,United States,Partial College,Skilled Manual,M,M,1,1,0,0,45164,10.718055588300412
+Berks,England,United Kingdom,Partial High School,Manual,M,S,0,2,0,0,13224,9.48978863950086
+Roubaix,Nord,France,High School,Manual,F,S,1,0,2,2,11357,9.337589572891646
+Milton Keynes,England,United Kingdom,Partial High School,Manual,F,S,0,2,0,0,15482,9.647433337764658
+Mill Valley,California,United States,Partial College,Skilled Manual,M,S,1,2,0,0,86484,11.36771470471244
+Salzgitter,Hessen,Germany,Bachelors ,Clerical,F,M,1,0,0,1,44451,10.702142737876844
+North Sydney,New South Wales,Australia,Bachelors ,Management,F,S,0,3,0,1,93580,11.446571964420206
+Suresnes,Hauts de Seine,France,High School,Manual,M,S,0,1,1,1,15162,9.626547576616248
+Paris,Seine (Paris),France,Graduate Degree,Clerical,M,M,1,0,0,4,78757,11.274122441626385
+Olympia,Washington,United States,Graduate Degree,Professional,F,M,1,0,0,1,78748,11.274008159539978
+Concord,California,United States,Bachelors ,Skilled Manual,M,M,1,1,1,1,57262,10.95539250643891
+Olympia,Washington,United States,Graduate Degree,Professional,M,M,1,2,5,5,120279,11.69756932313375
+Paris La Defense,Hauts de Seine,France,Bachelors ,Clerical,M,M,1,0,0,0,57417,10.958095705706183
+Lemon Grove,California,United States,Bachelors ,Management,M,S,0,4,2,2,170339,12.045545848066123
+Münster,Saarland,Germany,Partial College,Professional,M,M,1,2,4,4,156936,11.963593357909222
+Darmstadt,Hessen,Germany,Partial High School,Manual,F,M,0,2,0,0,29264,10.284113370630648
+W. Linn,Oregon,United States,Partial College,Clerical,M,S,0,1,0,2,44536,10.704053129863343
+Saint-Denis,Seine Saint Denis,France,Partial College,Manual,F,M,1,0,0,2,15192,9.628524252492122
+Matraville,New South Wales,Australia,Bachelors ,Professional,F,S,0,1,0,0,84815,11.348227692929823
+Burien,Washington,United States,Bachelors ,Skilled Manual,F,M,1,1,1,1,48814,10.795772435943437
+Bellflower,California,United States,Graduate Degree,Management,M,S,1,4,3,3,174979,12.072421245705074
+Glendale,California,United States,Bachelors ,Skilled Manual,M,M,0,2,2,4,83972,11.338238688924212
+Colma,California,United States,Bachelors ,Management,M,M,1,3,0,5,92092,11.43054335636426
+Wollongong,New South Wales,Australia,Bachelors ,Clerical,F,S,0,0,0,0,28631,10.262245325878965
+Roubaix,Nord,France,Partial College,Professional,F,S,0,3,4,4,136345,11.82294371726766
+Brisbane,Queensland,Australia,Graduate Degree,Management,M,M,1,2,5,5,146136,11.89229297395652
+W. Linn,Oregon,United States,Bachelors ,Professional,M,M,1,1,4,5,81701,11.310821520675269
+Concord,California,United States,Bachelors ,Management,F,S,0,3,2,2,141543,11.860358836826945
+Saint Germain en Laye,Yveline,France,Partial College,Clerical,F,S,0,1,0,0,56926,10.949507457751732
+Goulburn,New South Wales,Australia,Bachelors ,Professional,F,M,1,3,5,5,82457,11.320032224323306
+Milton Keynes,England,United Kingdom,Partial College,Professional,M,M,1,2,5,5,162339,11.997442020384897
+Beverly Hills,California,United States,Graduate Degree,Professional,F,M,1,0,0,5,95285,11.464627679562476
+Kirkland,Washington,United States,Partial High School,Skilled Manual,M,M,0,2,0,2,86037,11.362532715270294
+Oregon City,Oregon,United States,High School,Skilled Manual,F,M,1,2,0,0,40322,10.604652504689657
+Burien,Washington,United States,High School,Skilled Manual,F,S,1,2,0,0,36732,10.511403588733414
+München,Nordrhein-Westfalen,Germany,High School,Professional,F,M,1,3,1,4,102964,11.542134691554216
+Saint Ouen,Charente-Maritime,France,Partial College,Professional,M,M,0,3,4,4,174110,12.067442562360645
+Shawnee,British Columbia,Canada,High School,Professional,M,M,0,2,0,0,51756,10.854295646435844
+Colma,California,United States,High School,Clerical,M,M,1,1,0,1,48756,10.794583545775726
+Villeneuve-d'Ascq,Nord,France,Partial College,Manual,M,M,0,1,0,2,24231,10.095388084110406
+Melton,Victoria,Australia,High School,Skilled Manual,F,M,1,2,1,2,39899,10.594106539907239
+Corvallis,Oregon,United States,High School,Professional,F,S,0,3,0,5,37932,10.543550362003618
+Gateshead,England,United Kingdom,Bachelors ,Management,M,M,1,4,4,4,174465,12.069479427441248
+Courbevoie,Hauts de Seine,France,Partial College,Manual,M,S,0,1,0,3,23574,10.067899688786515
+Hervey Bay,Queensland,Australia,Partial College,Skilled Manual,F,S,1,1,0,1,66663,11.107405355349508
+Cloverdale,South Australia,Australia,Bachelors ,Professional,M,S,0,4,0,0,126067,11.744568790638537
+Edmonds,Washington,United States,Bachelors ,Skilled Manual,F,M,1,1,1,1,53076,10.879480127656327
+Port Macquarie,New South Wales,Australia,Bachelors ,Professional,F,S,0,1,0,0,83631,11.334169543735626
+Berkeley,California,United States,Graduate Degree,Management,M,S,0,1,0,0,179580,12.0983760700748
+Issaquah,Washington,United States,Graduate Degree,Skilled Manual,M,M,1,0,0,1,100447,11.517385504192315
+Shawnee,British Columbia,Canada,Partial College,Clerical,M,S,1,1,4,4,57598,10.96124312385893
+Oxford,England,United Kingdom,Bachelors ,Skilled Manual,F,M,1,2,1,1,49490,10.809525907945932
+Oak Bay,British Columbia,Canada,Bachelors ,Professional,F,S,1,2,2,4,94208,11.453260382648493
+London,England,United Kingdom,Partial College,Management,F,M,0,4,5,5,140268,11.85131015739577
+Santa Cruz,California,United States,Graduate Degree,Professional,M,S,0,1,0,0,114882,11.65166079360126
+Chula Vista,California,United States,High School,Skilled Manual,F,S,0,2,0,0,43168,10.672854759007482
+Findon,South Australia,Australia,Bachelors ,Professional,M,M,1,2,3,3,97455,11.487146011982741
+Warrnambool,Victoria,Australia,High School,Skilled Manual,F,S,1,2,0,2,97067,11.483156740696597
+Portland,Oregon,United States,Partial College,Professional,M,M,1,1,1,2,91953,11.429032855927643
+Hamburg,Hamburg,Germany,Bachelors ,Skilled Manual,M,M,1,0,0,1,56259,10.937721307268031
+West Covina,California,United States,Partial College,Skilled Manual,M,S,1,2,0,0,85419,11.355323837466711
+Sunbury,Victoria,Australia,Bachelors ,Professional,M,S,1,1,0,1,99220,11.50509488585504
+Corvallis,Oregon,United States,Partial College,Clerical,M,M,1,1,0,1,58684,10.979922396259534
+Oxford,England,United Kingdom,Partial College,Manual,M,M,1,1,0,2,10588,9.267476563346992
+Renton,Washington,United States,Graduate Degree,Professional,M,S,1,0,0,1,112760,11.633016945228048
+Salzgitter,Hessen,Germany,Partial High School,Manual,M,S,0,2,0,0,11961,9.389406636049465
+Sunbury,Victoria,Australia,Bachelors ,Professional,F,M,1,4,5,5,107070,11.581238105152316
+Portland,Oregon,United States,Graduate Degree,Management,F,M,1,3,3,3,100008,11.5130054617704
+Cloverdale,South Australia,Australia,Graduate Degree,Management,F,M,1,2,1,1,152975,11.938029788330741
+W. York,England,United Kingdom,Bachelors ,Clerical,M,S,0,1,1,1,50308,10.825919389167046
+Santa Cruz,California,United States,Bachelors ,Management,F,S,1,2,0,4,95773,11.469736087074644
+Cliffside,British Columbia,Canada,High School,Skilled Manual,F,S,1,2,2,4,38145,10.549149966524329
+La Jolla,California,United States,Bachelors ,Management,F,M,1,3,0,5,96231,11.47450683006617
+Goulburn,New South Wales,Australia,Graduate Degree,Management,M,S,1,1,0,1,176859,12.083108083923987
+Redwood City,California,United States,Bachelors ,Skilled Manual,F,S,1,2,3,3,105276,11.564340751916385
+Woodland Hills,California,United States,High School,Professional,F,S,1,2,1,3,79068,11.27806352070182
+Drancy,Seine Saint Denis,France,Partial High School,Manual,M,S,1,2,0,0,22875,10.037799890143722
+Kirkland,Washington,United States,Partial College,Professional,F,M,1,1,0,0,92513,11.43510445416616
+Lavender Bay,New South Wales,Australia,Partial College,Management,F,S,1,3,5,5,138417,11.838026146992371
+West Covina,California,United States,Bachelors ,Professional,M,S,0,1,0,0,60462,11.009770347508457
+Coffs Harbour,New South Wales,Australia,Partial College,Skilled Manual,M,M,1,2,0,3,63838,11.064103903312146
+Lemon Grove,California,United States,Bachelors ,Professional,F,M,1,2,2,4,98371,11.496501324156059
+Cliffside,British Columbia,Canada,Partial High School,Clerical,M,S,0,2,0,0,61302,11.02356774781948
+Bottrop,Nordrhein-Westfalen,Germany,High School,Manual,F,M,1,2,2,2,23980,10.084975428581505
+Frankfurt am Main,Saarland,Germany,Bachelors ,Clerical,F,S,0,0,0,0,66615,11.106685056394312
+San Gabriel,California,United States,High School,Professional,F,M,1,2,0,2,82403,11.319377123001807
+Hof,Bayern,Germany,Bachelors ,Clerical,F,M,1,0,0,0,45937,10.735026171542216
+Burbank,California,United States,Graduate Degree,Skilled Manual,F,M,1,0,1,1,92479,11.434736870698954
+Bellingham,Washington,United States,Partial College,Professional,M,S,1,3,5,5,119460,11.690736866286297
+York,England,United Kingdom,Graduate Degree,Clerical,F,M,1,0,0,1,51042,10.840404102203939
+Langford,British Columbia,Canada,Graduate Degree,Skilled Manual,M,M,0,0,1,1,86388,11.366604056257303
+Bracknell,England,United Kingdom,Partial College,Manual,M,S,0,0,1,1,22071,10.002019808600375
+Milwaukie,Oregon,United States,Bachelors ,Professional,F,M,1,1,3,4,81089,11.303302595885748
+Burien,Washington,United States,Bachelors ,Professional,F,S,0,1,0,1,81033,11.30261175809412
+San Carlos,California,United States,Partial College,Skilled Manual,M,S,0,2,0,0,93275,11.443307398089358
+High Wycombe,England,United Kingdom,Graduate Degree,Clerical,F,M,1,0,0,1,49862,10.817014468587551
+Lake Oswego,Oregon,United States,Partial College,Clerical,F,S,1,1,0,2,48706,10.7935575047672
+Gold Coast,Queensland,Australia,High School,Management,M,S,1,4,5,5,145944,11.890978265468055
+Lake Oswego,Oregon,United States,Bachelors ,Skilled Manual,M,S,1,1,2,2,86885,11.372340684156354
+Kirkland,Washington,United States,Partial College,Professional,F,S,0,1,3,4,98215,11.494914232168377
+Paris,Seine (Paris),France,Partial High School,Manual,F,S,1,2,0,0,17255,9.755857235532103
+Colma,California,United States,Graduate Degree,Management,M,M,1,2,0,4,148161,11.906054799317271
+Geelong,Victoria,Australia,Bachelors ,Professional,F,S,0,1,0,0,79606,11.284844745876201
+Marysville,Washington,United States,High School,Professional,M,S,1,2,1,2,73315,11.20252050541118
+Berkeley,California,United States,Bachelors ,Management,M,M,1,3,2,2,172780,12.059774387912876
+Bobigny,Seine Saint Denis,France,Partial College,Manual,F,S,0,1,1,1,34734,10.45547431330706
+München,Hessen,Germany,Bachelors ,Skilled Manual,M,M,1,1,1,1,67114,11.114147945011881
+Geelong,Victoria,Australia,High School,Skilled Manual,M,S,1,2,0,2,121842,11.710480402404773
+Coronado,California,United States,Graduate Degree,Skilled Manual,M,M,0,0,0,5,142248,11.865327292135785
+Colma,California,United States,Bachelors ,Management,F,M,0,1,0,0,113066,11.635726997987977
+Metchosin,British Columbia,Canada,Partial College,Clerical,M,M,0,0,4,4,57117,10.952857074625786
+Westminster,British Columbia,Canada,High School,Skilled Manual,M,M,1,2,0,0,48123,10.781515512284951
+Melton,Victoria,Australia,Partial College,Skilled Manual,F,S,0,1,0,1,78296,11.268251795105655
+Paderborn,Hamburg,Germany,Bachelors ,Skilled Manual,M,M,1,0,0,1,62923,11.049667035628712
+Everett,Washington,United States,Partial College,Professional,M,S,0,1,0,0,126716,11.74970364089348
+Melton,Victoria,Australia,Partial College,Manual,F,M,0,1,0,0,19313,9.8685337232726
+Werne,Nordrhein-Westfalen,Germany,High School,Manual,M,M,1,2,0,4,17896,9.792332503169966
+Lane Cove,New South Wales,Australia,High School,Skilled Manual,M,M,1,2,0,3,58922,10.983969814331768
+Tacoma,Washington,United States,Graduate Degree,Management,F,M,1,2,0,2,105605,11.567460997618243
+Münster,Saarland,Germany,Partial College,Professional,M,M,0,2,4,4,172714,12.059392326280529
+Chula Vista,California,United States,Bachelors ,Management,M,M,1,3,2,2,152629,11.93576541909579
+Salem,Oregon,United States,Partial College,Professional,M,S,1,4,1,4,121942,11.711300800836243
+Downey,California,United States,Bachelors ,Skilled Manual,F,S,0,0,2,2,41342,10.629634211359182
+Woodburn,Oregon,United States,Graduate Degree,Professional,M,M,1,0,0,1,117397,11.67331663238694
+Daly City,California,United States,Bachelors ,Skilled Manual,M,M,0,3,3,3,48978,10.799126496679412
+Ballard,Washington,United States,High School,Skilled Manual,F,M,1,2,0,0,46914,10.756071417352569
+Langford,British Columbia,Canada,Partial College,Skilled Manual,M,M,0,1,0,1,86981,11.373444982981379
+Kiel,Saarland,Germany,Graduate Degree,Clerical,F,M,1,0,0,4,62083,11.036227478431766
+Puyallup,Washington,United States,Partial College,Professional,M,M,1,1,2,3,107380,11.58412922397656
+Silverwater,New South Wales,Australia,Partial High School,Clerical,M,S,0,2,0,3,42318,10.652967806436234
+Issaquah,Washington,United States,Bachelors ,Management,M,S,1,2,0,5,119578,11.691724157090144
+Woodland Hills,California,United States,Bachelors ,Skilled Manual,F,M,1,1,1,1,62594,11.04442470584924
+Lille,Nord,France,Partial College,Clerical,M,S,1,0,2,2,42157,10.649156023188173
+Ballard,Washington,United States,High School,Skilled Manual,M,M,1,2,0,0,56680,10.945176693804617
+Bremerton,Washington,United States,Partial College,Professional,M,S,1,2,1,2,91228,11.42111714648604
+Milsons Point,New South Wales,Australia,Graduate Degree,Management,M,M,1,2,5,5,145348,11.886886146002434
+Bobigny,Seine Saint Denis,France,High School,Management,M,M,1,3,1,4,139530,11.846034910886253
+Downey,California,United States,Partial College,Skilled Manual,M,S,1,1,0,0,51734,10.853870484578053
+North Sydney,New South Wales,Australia,Bachelors ,Management,M,M,1,2,0,2,77939,11.263681748428045
+Newport Beach,California,United States,Partial High School,Clerical,F,S,0,2,0,3,29599,10.295495855957682
+Seaford,Victoria,Australia,Bachelors ,Professional,F,M,0,4,0,0,101162,11.524478471248804
+Roncq,Nord,France,Bachelors ,Manual,M,M,1,0,0,1,27771,10.23174758973532
+San Francisco,California,United States,Bachelors ,Management,F,M,1,2,0,1,104790,11.559713626468987
+Cliffside,British Columbia,Canada,High School,Skilled Manual,F,M,0,2,0,0,47840,10.775617388624513
+Eilenburg,Brandenburg,Germany,Graduate Degree,Clerical,F,M,1,0,0,4,70881,11.168757693531585
+London,England,United Kingdom,Partial High School,Manual,M,S,0,2,0,0,25594,10.150113227997542
+Saarbrücken,Saarland,Germany,High School,Manual,M,S,0,1,0,0,24166,10.092701965587253
+Saarlouis,Saarland,Germany,Bachelors ,Manual,M,S,1,0,0,1,31608,10.361165532091226
+Kassel,Hessen,Germany,Partial College,Clerical,F,S,1,1,0,0,46080,10.738134295369774
+West Covina,California,United States,Partial College,Professional,M,M,0,2,2,4,82332,11.318515132478892
+Burbank,California,United States,Partial College,Professional,M,M,1,2,1,2,96515,11.477453715661976
+Lake Oswego,Oregon,United States,Partial College,Professional,M,M,1,0,3,4,99777,11.510692974817513
+München,Nordrhein-Westfalen,Germany,Partial College,Clerical,M,S,0,1,4,4,52260,10.863986539074604
+Burien,Washington,United States,Partial High School,Clerical,M,M,1,2,1,2,34609,10.451869042828553
+Concord,California,United States,Bachelors ,Professional,F,S,0,2,2,4,90371,11.4116786984539
+Burlingame,California,United States,Bachelors ,Management,F,S,1,4,2,4,128405,11.762944610289793
+Los Angeles,California,United States,High School,Skilled Manual,M,M,1,2,0,2,61309,11.023681930070788
+Spring Valley,California,United States,Graduate Degree,Management,F,M,1,2,3,3,148975,11.91153378561518
+Renton,Washington,United States,Partial College,Skilled Manual,F,M,1,1,0,1,82391,11.319231486631294
+Werne,Nordrhein-Westfalen,Germany,Bachelors ,Management,F,S,1,3,5,5,135829,11.81915202064558
+Woodland Hills,California,United States,Graduate Degree,Professional,M,M,1,0,0,2,140433,11.852485785690675
+Palo Alto,California,United States,Graduate Degree,Management,M,M,1,4,2,2,184897,12.12755419225711
+York,England,United Kingdom,Bachelors ,Manual,F,M,1,0,0,1,20517,9.929009089766206
+Bellflower,California,United States,Partial College,Professional,M,S,1,2,0,0,101507,11.527883040603209
+Portland,Oregon,United States,Graduate Degree,Skilled Manual,F,M,1,0,0,1,57028,10.951297654273851
+Frankfurt am Main,Hamburg,Germany,Partial High School,Manual,M,M,1,0,4,4,14562,9.586170674954657
+Hervey Bay,Queensland,Australia,Bachelors ,Clerical,M,S,1,0,0,0,30824,10.336048886305994
+Cliffside,British Columbia,Canada,Graduate Degree,Skilled Manual,F,S,1,0,0,0,80827,11.30006634710654
+Paderborn,Nordrhein-Westfalen,Germany,High School,Manual,M,S,0,2,0,4,21679,9.984099329028517
+Shawnee,British Columbia,Canada,Bachelors ,Skilled Manual,M,S,1,1,3,3,125963,11.743743492016128
+National City,California,United States,Graduate Degree,Professional,M,M,1,0,0,3,111687,11.623455595115042
+Tacoma,Washington,United States,Graduate Degree,Skilled Manual,F,M,1,0,0,1,87038,11.374100083884596
+Oregon City,Oregon,United States,Bachelors ,Management,M,M,1,3,0,5,87085,11.374639932165886
+Royal Oak,British Columbia,Canada,Partial High School,Skilled Manual,F,M,1,2,1,2,40247,10.60279074590741
+Westminster,British Columbia,Canada,Graduate Degree,Professional,M,S,1,0,0,1,119828,11.693812660226003
+Santa Monica,California,United States,Partial College,Skilled Manual,M,S,1,1,0,0,62337,11.04031042896799
+W. Linn,Oregon,United States,Partial College,Skilled Manual,F,M,1,1,0,1,68515,11.134807978380302
+Beverly Hills,California,United States,Partial College,Professional,M,M,1,2,1,2,102582,11.538417757731164
+Mill Valley,California,United States,Graduate Degree,Management,M,M,1,2,0,4,139556,11.846221233382366
+Paris,Seine (Paris),France,Partial College,Clerical,F,S,0,1,0,0,36660,10.509441521393695
+Neunkirchen,Saarland,Germany,Partial College,Professional,M,S,1,1,2,3,117312,11.672592331199377
+Warrington,England,United Kingdom,Partial High School,Manual,F,M,0,2,0,0,23449,10.062583129041906
+Townsville,Queensland,Australia,Bachelors ,Professional,F,S,1,4,5,5,98331,11.496094617558756
+Darlinghurst,New South Wales,Australia,Bachelors ,Professional,F,S,1,1,3,3,88800,11.394141928980261
+Cliffside,British Columbia,Canada,Partial High School,Skilled Manual,F,M,1,3,1,2,47635,10.77132306414088
+Oregon City,Oregon,United States,Partial College,Professional,M,S,0,2,1,2,104148,11.553568243432245
+Beaverton,Oregon,United States,Graduate Degree,Skilled Manual,F,S,1,0,0,4,119133,11.68799579504999
+Bellflower,California,United States,Partial College,Professional,F,M,1,1,1,2,76038,11.238988494310119
+Rockhampton,Queensland,Australia,Bachelors ,Professional,F,S,0,3,0,0,89480,11.401770415604066
+Cheyenne,Wyoming,United States,Graduate Degree,Professional,M,M,1,0,0,5,122608,11.716747553210185
+Gateshead,England,United Kingdom,High School,Professional,M,S,1,2,1,3,128720,11.765394781666265
+Concord,California,United States,Partial College,Clerical,F,M,1,1,0,1,64468,11.07392425564261
+Orly,Val de Marne,France,Partial College,Manual,M,S,0,1,0,0,19194,9.862353009177573
+Burien,Washington,United States,Partial College,Skilled Manual,M,S,1,2,0,0,50494,10.829609796323572
+York,England,United Kingdom,Bachelors ,Clerical,M,S,0,0,0,1,65238,11.085797400225804
+West Sussex,England,United Kingdom,Graduate Degree,Management,M,M,0,4,4,4,178373,12.091632142382712
+Runcorn,England,United Kingdom,Bachelors ,Management,M,S,0,4,4,4,167054,12.026072392424895
+Hervey Bay,Queensland,Australia,Partial College,Skilled Manual,M,M,1,3,4,5,100653,11.519434236883054
+Daly City,California,United States,Bachelors ,Management,M,M,1,0,3,5,171379,12.051632757219506
+Goulburn,New South Wales,Australia,Partial College,Skilled Manual,M,M,1,1,0,1,89465,11.401602766325961
+North Sydney,New South Wales,Australia,High School,Management,F,M,1,4,5,5,115361,11.655821620997155
+Maidenhead,England,United Kingdom,Graduate Degree,Clerical,M,S,1,0,0,0,90438,11.412419812038584
+San Gabriel,California,United States,Partial College,Clerical,M,M,1,1,0,1,53572,10.888781822507013
+Colombes,Hauts de Seine,France,Partial College,Manual,F,S,0,1,0,3,13511,9.51125944745996
+Hamburg,Hamburg,Germany,Partial College,Management,M,M,1,3,5,5,156982,11.963886428076139
+Lebanon,Oregon,United States,Graduate Degree,Professional,F,M,1,0,0,0,81160,11.30417779393975
+Lincoln Acres,California,United States,Bachelors ,Management,M,M,1,0,1,2,87335,11.377506577862492
+Solingen,Nordrhein-Westfalen,Germany,Bachelors ,Management,F,M,0,4,3,3,133419,11.801249831107251
+Orly,Val de Marne,France,Partial College,Clerical,F,S,1,2,3,3,45885,10.733893545253114
+Silverwater,New South Wales,Australia,Bachelors ,Professional,F,S,1,4,5,5,82935,11.325812447440143
+Lancaster,England,United Kingdom,Bachelors ,Management,M,M,1,4,4,4,176428,12.08066814011726
+Cheltenham,England,United Kingdom,Partial College,Professional,F,M,1,2,2,4,105288,11.564454731514159
+Langford,British Columbia,Canada,Graduate Degree,Professional,F,M,0,0,0,2,106829,11.578984704229642
+Peterborough,England,United Kingdom,Graduate Degree,Skilled Manual,F,S,0,0,0,0,97084,11.48333186212315
+Erlangen,Bayern,Germany,Partial College,Management,F,S,0,4,4,4,110762,11.615139034182182
+Torrance,California,United States,Bachelors ,Management,F,S,0,4,3,3,138097,11.83571161577258
+Mill Valley,California,United States,Partial College,Professional,F,M,1,1,0,2,101465,11.52746919041107
+Matraville,New South Wales,Australia,High School,Skilled Manual,F,S,0,2,0,4,19108,9.857862374509853
